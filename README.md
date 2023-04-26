@@ -3,7 +3,7 @@
 <h3 align="center">Python Developer | Django Developer | Pencil Artist</h3>
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-khan11&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-khan11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-khan11&label=Profile%20views&color=0e75b6&style=flat" alt="sohailburki01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cleverkhan77" target="blank"><img src="https://img.shields.io/twitter/follow/cleverkhan77?logo=twitter&style=for-the-badge" alt="cleverkhan77" /></a> </p>
 
@@ -33,6 +33,6 @@
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail-khan11&show_icons=true&locale=en" alt="sohail-khan11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail-khan11&show_icons=true&locale=en" alt="sohailburki01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-khan11&" alt="sohail-khan11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-khan11&" alt="sohailburki01" /></p>
